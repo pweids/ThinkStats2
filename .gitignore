@@ -56,3 +56,9 @@ docs/_build/
 *.eps
 *.png
 *~
+
+# PyCharm stuff
+.idea
+
+# Jupyter checkpoints
+.ipynb_checkpoints
